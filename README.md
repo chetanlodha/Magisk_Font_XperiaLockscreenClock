@@ -1,4 +1,4 @@
-# Systemlessly Font with Tsukushimarugo-A(CJK) & sleek #
+# Magisk_Bellota_Font
 * [Tesing Device]	Google Nexus 6 .
 * [Systemlessly]	replaces font with bellota .
 
