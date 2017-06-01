@@ -7,7 +7,7 @@
 * [Thanks to] <a href="https://www.fontsquirrel.com/fonts/bellota">Pixilate</a>
 
 ## Screenshot ##
-<img src="https://cdn5.fontsquirrel.com/fnt_imgs/55/2076/7c7419e677b1bdcac00ab0dd75/sa-720x300.png" alt="Screenshot" height="720px">
+<img src="https://cdn5.fontsquirrel.com/fnt_imgs/55/2076/7c7419e677b1bdcac00ab0dd75/sa-720x300.png" height="300" width="720" alt="Screenshot" height="720px">
 
 ## Contact ##
 Commit an Issues
