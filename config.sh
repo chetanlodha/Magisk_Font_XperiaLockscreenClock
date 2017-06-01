@@ -74,12 +74,6 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/fonts/Roboto-Bold.ttf
-/system/fonts/Roboto-BoldItalic.ttf
-/system/fonts/Roboto-Italic.ttf
-/system/fonts/Roboto-Light.ttf
-/system/fonts/Roboto-LightItalic.ttf
-/system/fonts/Roboto-Regular.ttf
 "
 
 ##########################################################################################
@@ -91,12 +85,6 @@ REPLACE="
 set_permissions() {
   # Default permissions, don't remove them
   set_perm_recursive  $MODPATH  0  0  0755  0644
-  set_perm  $MODPATH/system/fonts/Roboto-Bold.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-BoldItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Italic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Light.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-LightItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Regular.ttf       0       0       0644
 
   # Only some special files require specific permissions
   # The default permissions should be good enough for most cases
