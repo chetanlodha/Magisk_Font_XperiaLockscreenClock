@@ -1,9 +1,9 @@
-id=humo_font_tsukushimarugoasleek
+id=pirasalbe_bellota_font
 name=Bellota Font
 version=1.0
 versionCode=1
-author=HUMORCE
-description=[Test on oneplus3/Nougat]Systemlessly replaces font with Tsukushimarugo-A(CJK) & sleek .
-support=mailto:humorce@outlook.com
-donate=aliemakesamanman@outlook.com[Alipay]
+author=pirasalbe
+description=Systemlessly apply Bellota font
+support=https://github.com/pirasalbe/Magisk_Font_Bellota/issues
+donate=https://paypal.me/pirasalbe[Paypal]
 template=3
