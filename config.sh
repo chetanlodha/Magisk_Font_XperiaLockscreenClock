@@ -74,6 +74,7 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/fonts/AndroidClock.ttf
 /system/fonts/Roboto-Black.ttf
 /system/fonts/Roboto-BlackItalic.ttf
 /system/fonts/Roboto-Bold.ttf
@@ -103,6 +104,7 @@ REPLACE="
 set_permissions() {
   # Default permissions, don't remove them
   set_perm_recursive  $MODPATH  0  0  0755  0644
+  set_perm  $MODPATH/system/fonts/AndroidClock.ttf       0       0       0644
   set_perm  $MODPATH/system/fonts/Roboto-Black.ttf       0       0       0644
   set_perm  $MODPATH/system/fonts/Roboto-BlackItalic.ttf       0       0       0644
   set_perm  $MODPATH/system/fonts/Roboto-Bold.ttf       0       0       0644

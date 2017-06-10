@@ -9,8 +9,12 @@
 ## Contact ##
 <a href="https://github.com/pirasalbe/Magisk_Font_Bellota/issues">Commit an Issues</a>
 
+## Donate ##
+<a href="https://paypal.me/pirasalbe">Paypal</a>
+
 ## Thanks ##
 * <a href="https://github.com/topjohnwu">topjohnwu</a>
 * <a href="https://github.com/HUMORCE">HUMORCE</a> <a href="https://github.com/Magisk-Modules-Repo/Systemlessly-Font-with-Tsukushimarugo-A-CJK-Sleek">(his font)</a>
+* <a href="https://fontforge.github.io/en-US/">FontForge</a>
 * <a href="https://github.com/sergiocastell">linuxct</a> <a href="https://github.com/sergiocastell/AndroidO-NotoColorEmojiReplacer">(his module)</a>
 * <a href="https://www.fontsquirrel.com/fonts/bellota">Pixilate</a>

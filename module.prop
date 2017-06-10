@@ -1,9 +1,7 @@
 id=pirasalbebellotafont
 name=Bellota Font
-version=1.3
-versionCode=13
+version=1.4
+versionCode=14
 author=pirasalbe
 description=Systemlessly apply Bellota font
-support=https://github.com/pirasalbe/Magisk_Font_Bellota/issues
-donate=https://paypal.me/pirasalbe[Paypal]
 template=3
