@@ -104,25 +104,6 @@ REPLACE="
 set_permissions() {
   # Default permissions, don't remove them
   set_perm_recursive  $MODPATH  0  0  0755  0644
-  set_perm  $MODPATH/system/fonts/AndroidClock.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Black.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-BlackItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Bold.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-BoldItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/RobotoCondensed-Bold.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/RobotoCondensed-BoldItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/RobotoCondensed-Italic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/RobotoCondensed-Light.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/RobotoCondensed-LightItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/RobotoCondensed-Regular.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Italic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Light.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-LightItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Medium.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-MediumItalic.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Regular.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-Thin.ttf       0       0       0644
-  set_perm  $MODPATH/system/fonts/Roboto-ThinItalic.ttf       0       0       0644
 
   # Only some special files require specific permissions
   # The default permissions should be good enough for most cases
