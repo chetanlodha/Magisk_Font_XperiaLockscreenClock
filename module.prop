@@ -1,7 +1,7 @@
 id=pirasalbebellotafont
 name=Bellota Font
-version=1.6
-versionCode=16
+version=1.7
+versionCode=17
 author=pirasalbe
 description=Systemlessly apply Bellota font
-template=4
+template=1400
