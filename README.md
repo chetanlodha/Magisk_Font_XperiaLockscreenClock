@@ -9,6 +9,7 @@
 
 ## Contact ##
 <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Bellota/issues">Commit an Issues</a>
+<a href="https://t.me/pirasalbe">Telegram</a>
 
 ## Donate ##
 <a href="https://paypal.me/pirasalbe">Paypal</a>
