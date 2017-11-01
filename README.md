@@ -8,8 +8,8 @@
 <img src="https://cdn5.fontsquirrel.com/fnt_imgs/55/2076/7c7419e677b1bdcac00ab0dd75/sa-720x300.png" height="130" width="720" alt="Screenshot" height="720px">
 
 ## Contact ##
-<a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Bellota/issues">Commit an Issues</a>
-<a href="https://t.me/pirasalbe">Telegram</a>
+* <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Bellota/issues">Commit an Issues</a>
+* <a href="https://t.me/pirasalbe">Telegram</a>
 
 ## Donate ##
 <a href="https://paypal.me/pirasalbe">Paypal</a>
