@@ -1,5 +1,5 @@
 # Magisk Bellota Font
-* [Systemlessly] Google Product Sans
+* [Systemlessly] Bellota Font
 * [Tesing Device] Google Nexus 4 Android Lollipop
 * [Tesing Device] Google Nexus 6 Android Marshmallow
 * [Tesing Device] OnePlus 5 Android Nougat
