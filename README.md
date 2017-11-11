@@ -1,8 +1,8 @@
 # Magisk Bellota Font
 * [Systemlessly] Bellota Font
-* [Tesing Device] Google Nexus 4 Android Lollipop
+* [Tesing Device] Google Nexus 4 Android Lollipop/Oreo
 * [Tesing Device] Google Nexus 6 Android Marshmallow
-* [Tesing Device] OnePlus 5 Android Nougat
+* [Tesing Device] OnePlus 5 Android Nougat/Oreo
 
 ## Contact ##
 * <a href="https://github.com/Magisk-Modules-Repo/Magisk_Font_Bellota/issues">Commit an Issues</a>
@@ -18,7 +18,6 @@
 ## Thanks ##
 * <a href="https://github.com/topjohnwu">topjohnwu</a>
 * <a href="https://github.com/HUMORCE">HUMORCE</a> <a href="https://github.com/Magisk-Modules-Repo/Systemlessly-Font-with-Tsukushimarugo-A-CJK-Sleek">(his font)</a>
-* <a href="https://fontforge.github.io/en-US/">FontForge</a>
-* <a href="https://forum.xda-developers.com/android/themes/fonts-flashable-zips-t3219827">gianton and dude6595</a>
 * <a href="https://github.com/sergiocastell">linuxct</a> <a href="https://github.com/sergiocastell/AndroidO-NotoColorEmojiReplacer">(his module)</a>
-* <a href="https://www.fontsquirrel.com/fonts/bellota">Pixilate</a>
+* <a href="https://forum.xda-developers.com/member.php?u=1546609">gianton</a> <a href="https://forum.xda-developers.com/android/themes/fonts-flashable-zips-t3219827">(xda thread)</a> 
+* **All of them that helped with tests and issues**
