@@ -1,5 +1,10 @@
 # Magisk Bellota Font
-* [Systemlessly] Bellota Font
+
+## Versions ##
+* 2.0C Font more condensed
+* 2.0R Font more regular
+
+## Testing devices ##
 * [Tesing Device] Google Nexus 4 Android Lollipop/Oreo
 * [Tesing Device] Google Nexus 6 Android Marshmallow
 * [Tesing Device] OnePlus 5 Android Nougat/Oreo

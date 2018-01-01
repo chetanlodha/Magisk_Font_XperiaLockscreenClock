@@ -1,5 +1,8 @@
 # Magisk Bellota Font
 ## Changelog ##
+#### 2.0C ####
+* Updated magisk module template 1500
+
 #### 1.9 ####
 * Updated font files
 * Removed fallback. **It is no longer needed**
