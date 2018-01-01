@@ -1,7 +1,7 @@
 id=pirasalbebellotafont
 name=Bellota Font
-version=2.0C
-versionCode=200
+version=2.0R
+versionCode=201
 author=pirasalbe
 description=Systemlessly apply Bellota font
 minMagisk=1500
