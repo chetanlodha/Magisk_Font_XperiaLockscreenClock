@@ -1,7 +1,7 @@
-id=pirasalbebellotafont
-name=Bellota Font
-version=2.0R
-versionCode=201
-author=pirasalbe
-description=Systemlessly apply Bellota font
-minMagisk=1500
+id=chetanxperiafont
+name=Xperia Lockscreen Clock Font
+version=1.0
+versionCode=1
+author=chetan
+description=Systemlessly applies the font required by the theme XperiaLockscreenClock on oreo
+minMagisk=1503
